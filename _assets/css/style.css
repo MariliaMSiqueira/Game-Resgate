@@ -50,7 +50,7 @@ p {
 
 /* BOTÕES */
 
-.begin,
+.button-begin,
 .restartGame {
   padding: 20px;
   width: auto;
@@ -68,7 +68,7 @@ span {
   font-weight: bolder;
 }
 
-.begin:hover,
+.button-begin:hover,
 .restartGame:hover {
   background-color: #000000;
 }
